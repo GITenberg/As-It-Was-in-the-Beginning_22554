@@ -1,0 +1,29 @@
+_repo: As-It-Was-in-the-Beginning_22554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mighels, Philip Verrill
+    alias: Verrill Mighels, Philip
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '6820'
+    url: http://www.gutenberg.org/2009/agents/6820
+description: ''
+gutenberg_issued: '2007-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Robinsonades'
+title: As It Was in the Beginning
+url: http://www.gutenberg.org/ebooks/22554
